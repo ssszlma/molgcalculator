@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+}
+
+.page {
+  margin-top: 10px;
+  background-color: #03fcb6;
+  text-align: center;
+  width: 100%;
+  height: 80px;
+}
